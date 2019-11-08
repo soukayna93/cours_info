@@ -21,9 +21,16 @@ Tout d’abord nous devons créer un repository GitHub, puis le lier à un dossi
 
 ## 3.Contribution :
 
-Nous sommes deux élèves à avoir contribués en binôme. Nous avons appris à nous connaitre pour pouvoir faire ce projet ensemble en peer-learning. La première personne est Carlos Velez Posoda, éleve en L2 AEI-AGE  C     .La seconde personne est Soukayna Talha, élève en L2 AEI-AGE C15.
+Nous sommes deux élèves à avoir contribués en binôme. Nous avons appris à nous connaitre pour pouvoir faire ce projet ensemble en peer-learning. La première personne est Carlos Velez Posoda, éleve en L2 AEI-AGE  C10. La seconde personne est Soukayna Talha, élève en L2 AEI-AGE C15.
 
 ## 4.Contexte :
 
-Nous avons chacun choisi cette option pour des raisons différentes. j'ai choisi cette option car j'étais curieuse de découvrir le monde du site web et tout ce qui s’y attache. Apprendre à créer un site web est une consécration dans la vie d’un étudiant.
+Nous avons chacun choisi cette option pour des raisons différentes.
+
+Soukayna :
+j'ai choisi cette option car j'étais curieuse de découvrir le monde du site web et tout ce qui s’y attache. Apprendre à créer un site web est une consécration dans la vie d’un étudiant. 
+
+Carlos :
+Ce travail a était très bénéfique pour ma part, elle ma beaucoup aidez a comprendre un bon debut sur l'informatique. Même si au dela de sa j'avais quelque notion apprise au lycée, elle ma permit de m'y approfondir. Malgré tous cela le travail était a mon gout complique car il dallez beaucoup de temps pour pouvoir comprendre toute les fonctions que pouvais contenir ce système Terminal et les comprendre. Pour ensuite les faire fonctionner dans notre projet, c'est ce qui ma couter beaucoup de temps et de recherche vide surtout mais après avoir compris le fonctionnement des touche et savoir réaliser des fonctions le travail ma ensuite parus un peux mon complique et réalisable. malgres tout cela avoir eu deux semaines pour apprendre une base d'informatqiue a etait tres compliqué est demander beaucoup de temps libre pour cela.
+
 

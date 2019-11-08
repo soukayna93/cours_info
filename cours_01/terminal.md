@@ -34,7 +34,7 @@ CMD + SPACE, puis écrire Terminal (ou iTerm), Enter.
 
 ## 3.2.2. Sur Linux
 
-🚀  # ""ALERTE BONNE ASTUCE""
+🚀  ""ALERTE BONNE ASTUCE""
 
 Si tu utilises Linux, passe ton terminal en anglais. Ça va vraiment t'aider lorsqu'il te renverra des erreurs. En effet, comme l'anglais est la langue d'internet, la majorité des gens ayant eu ton problème vont le poster en anglais. Tu auras ainsi 100 fois plus de résultats sur Google qu'avec une erreur postée en français.
 
